@@ -1,4 +1,6 @@
-name": "bz-customs-website",
+{
+
+  "name": "bz-customs-website",
 
   "version": "1.0.0",
 
@@ -21,3 +23,7 @@ name": "bz-customs-website",
     "react": "^18.2.0",
 
     "react-dom": "^18.2.0"
+
+  }
+
+}
