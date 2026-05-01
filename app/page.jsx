@@ -10,7 +10,7 @@ export default function BZCustomsHomepage() {
 
         <img
 
-          src="/logo.png"
+          src="/logo.jpg"
 
           alt="BZ Customs Logo"
 
