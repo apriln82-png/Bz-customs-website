@@ -15,8 +15,7 @@ export default function BZCustomsHomepage() {
           alt="BZ Customs Logo"
 
           className="mx-auto w-40 md:w-56 h-auto mb-6 rounded-2x1"
-
-        />
+       />
 
         <h1 className="text-4xl md:text-6xl font-bold">
 
