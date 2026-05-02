@@ -41,33 +41,35 @@ export default function BZCustomsHomepage() {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
 
-          <a
+  <a
 
-            href="tel:4056288880"
+    href="tel:4056288880"
 
-            className="bg-purple-600 hover:bg-purple-700 transition px-8 py-4 rounded-2xl font-bold text-lg shadow-xl"
+    className="bg-purple-600 hover:bg-purple-700 transition px-8 py-4 rounded-2xl font-bold text-lg shadow-xl"
 
-          >
+  >
 
-            Call Now: 405-628-8880
+    Call Now: 405-628-8880
 
-          </a>
+  </a>
 
-          <a
+  <a
 
-            href="https://instagram.com/bzwelds"
+    href="https://instagram.com/bzwelds"
 
-            target="_blank"
+    target="_blank"
 
-            className="border border-purple-500 hover:bg-purple-600/20 transition px-8 py-4 rounded-2xl font-semibold text-lg"
+    rel="noopener noreferrer"
 
-          >
+    className="border border-purple-500 hover:bg-purple-600/20 transition px-8 py-4 rounded-2xl font-semibold text-lg"
 
-            View Instagram @bzwelds
+  >
 
-          </a>
+    View Instagram @bzwelds
 
-        </div>
+  </a>
+
+</div>
 
       </section>
 
