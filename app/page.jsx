@@ -32,8 +32,8 @@ export default function BZCustomsHomepage() {
         </p>
 
         <div style={{ display: "flex", gap: "16px", justifyContent: "center", flexWrap: "wrap" }}>
-          <a href="tel:4056288880" style={primaryBtn}>
-            Call Now: 405-628-8880
+          <a href="tel:4058222183" style={primaryBtn}>
+            Call Now: 405-822-2183
           </a>
           <a href="https://instagram.com/bzwelds" target="_blank" rel="noopener noreferrer" style={secondaryBtn}>
             View Instagram
