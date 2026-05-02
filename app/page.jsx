@@ -14,17 +14,17 @@ export default function BZCustomsHomepage() {
 
           alt="BZ Customs Logo"
 
-          className="mx-auto w-48 mb-6 rounded-2xl shadow-2xl"
+          className="mx-auto w-40 md:w-56 h-auto mb-6 rounded-2x1"
 
         />
 
-        <h1 className="text-5xl md:text-7xl font-extrabold tracking-tight mb-4">
+        <h1 className="text-4xl md:text-6xl font-bold">
 
           BZ Customs
 
         </h1>
 
-        <p className="text-xl md:text-2xl text-zinc-300 max-w-3xl mx-auto mb-8">
+        <p className="mt-4 text-lg text-grey-300>
 
           Precision Welding • Custom Fabrication • Metal Repairs
 
