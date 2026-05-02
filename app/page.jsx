@@ -5,14 +5,15 @@ export default function BZCustomsHomepage() {
       {/* Hero Section */}
       <section className="px-6 py-16 text-center border-b border-zinc-800">
 
-       <img
+    <img
   src="/logo.jpg"
   alt="BZ Customs Logo"
   style={{
-    width: "220px",
+    width: "250px",
+    maxWidth: "90%",
     height: "auto",
-    margin: "0 auto 24px auto",
-    display: "block"
+    display: "block",
+    margin: "0 auto 20px auto"
   }}
 />
 
