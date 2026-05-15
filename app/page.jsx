@@ -1,3 +1,38 @@
+export const metadata = {
+
+  title: "BZ Customs | Welding & Custom Fabrication Oklahoma City",
+
+  description:
+
+    "BZ Customs provides precision welding, custom fabrication, trailer repair, gates, railings, metal repairs, and handyman services in Oklahoma City.",
+
+  keywords: [
+
+    "welding Oklahoma City",
+
+    "custom fabrication OKC",
+
+    "mobile welder Oklahoma City",
+
+    "metal repair OKC",
+
+    "trailer welding repair",
+
+    "custom gates Oklahoma",
+
+    "railing fabrication",
+
+    "handyman services OKC",
+
+    "metal furniture fabrication",
+
+    "machinery repair welding",
+
+    "BZ Customs",
+
+  ],
+
+};
 export default function BZCustomsHomepage() {
   return (
     <main style={{ background: "#050505", color: "white", fontFamily: "Arial, sans-serif" }}>
